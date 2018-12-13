@@ -24,8 +24,11 @@ Install the last version of pygame :
 ```sh
 python3 -m pip install pygame --user
 ```  
+You need also easygui for python 3 :
 
-
+```sh
+sudo python3 -m pip install --upgrade easygui
+```
 
 ## How to launch the game :
 
