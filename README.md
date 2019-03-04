@@ -1,3 +1,5 @@
+![Awesome](awesome.svg)    ![Python](python.png)
+
 # Daylight Pong in Python 3  
 
 
