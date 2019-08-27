@@ -175,6 +175,7 @@ while True:
         elif event.type == KEYUP:
             keyup(event)
         elif event.type == QUIT:
+            pygame.display.quit()
             pygame.quit()
             sys.exit()
 
